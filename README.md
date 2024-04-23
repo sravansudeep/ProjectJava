@@ -1,1 +1,3 @@
 # ProjectJava
+Hello Everyone, I am happy to announce I have started my first java project - Sleep Tracker. This feels quiite ironic because I am discussing about my project which is about sleep while I'm sleep deprived. I guess making this would make me improve my sleep or be even more sleep deprived. haha...
+
